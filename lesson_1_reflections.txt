@@ -1,0 +1,10 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Helped just test out the diff or bugs
+Yet to test better
+Let us see ahead
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Just need to maintain only 1 file. Can revert back to working versions if something goes wrong.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Gives more control. Prevents unnecessary cluttering with insignificant changes.
