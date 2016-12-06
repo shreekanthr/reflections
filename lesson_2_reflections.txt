@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A giiden ./git directory is created. Fatal error when GIT LOG command used as nothing was added to version.
